@@ -25,4 +25,4 @@ if  (numero % 2 == 0)
 else
 {
     Console.WriteLine("El numero es impar");
-} 
+} //ejercicio 5
