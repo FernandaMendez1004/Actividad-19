@@ -16,4 +16,4 @@ do
         correcto = false;
     }
 } while (!correcto);
-Console.WriteLine($"El salario ingresado es: {salario}");
+Console.WriteLine($"El salario ingresado es: {salario}"); //ejercicio 7
