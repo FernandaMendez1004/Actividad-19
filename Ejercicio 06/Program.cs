@@ -9,4 +9,4 @@ do
 }
 while (!correcta);
 
-Console.WriteLine($"La fecha ingresada es: {fecha.ToShortDateString()}");
+Console.WriteLine($"La fecha ingresada es: {fecha.ToShortDateString()}"); //ejercicio 06
