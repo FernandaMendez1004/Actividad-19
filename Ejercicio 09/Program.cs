@@ -21,3 +21,4 @@ if (nota <=61)
 { Console.WriteLine("Reprobo"); }
 else if (nota <100)
 { Console.WriteLine("Aprobo"); }
+//ej 09
