@@ -26,3 +26,4 @@ for (int i = 1; i <= productos; i++)
     Console.WriteLine($"Ingrese el nombre del producto ");
     nproductos = Console.ReadLine();
 }
+//ej 10
