@@ -16,4 +16,4 @@ do
         correcto = false;
     }
 }
-while (!correcto);
+while (!correcto);//ejercicio 4
