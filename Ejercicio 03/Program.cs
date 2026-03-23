@@ -16,3 +16,4 @@ do
     }
 }
 while (!correcto);
+//ejercicio 3
