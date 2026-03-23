@@ -1,8 +1,11 @@
 <Solution>
+  <Project Path="Actividad 07/Actividad 07.csproj" />
   <Project Path="Ejercicio 01/Ejercicio 01.csproj" />
   <Project Path="Ejercicio 02/Ejercicio 02.csproj" />
   <Project Path="Ejercicio 03/Ejercicio 03.csproj" />
   <Project Path="Ejercicio 04/Ejercicio 04.csproj" />
   <Project Path="Ejercicio 05/Ejercicio 05.csproj" />
   <Project Path="Ejercicio 06/Ejercicio 06.csproj" />
+  <Project Path="Ejercicio 08/Ejercicio 08.csproj" />
+  <Project Path="Ejercicio 09/Ejercicio 09.csproj" />
 </Solution>
